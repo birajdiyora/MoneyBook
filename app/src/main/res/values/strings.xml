@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoneyBook</string>
+    <string name="app_title">Money Book</string>
+    <string name="no_any_customer">No any customer\nPlease add customer</string>
+    <string name="home_screen">home_screen</string>
+    <string name="customer_detail">Customer Detail</string>
+    <string name="edit_detail">Edit Detail</string>
+</resources>
