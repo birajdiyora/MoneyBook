@@ -9,7 +9,7 @@ MoneyBook is a mobile application developed using Android Jetpack Compose and Ko
   
 - **Customer Management**: Users can add and manage customer profiles, including their names and transaction details.
   
-- **Transaction Recording**: Easily record transactions, specifying the amount, transaction type (received or given) and associated customer.
+- **Record Transactions**: Easily record transactions, specifying the amount, transaction type (received or given) and associated customer.
 
 - **Transaction Detail**: View detailed information about each transaction, including the transaction date, amount and type.
 
