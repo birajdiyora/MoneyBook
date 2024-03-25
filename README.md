@@ -17,14 +17,14 @@ MoneyBook is a mobile application developed using Android Jetpack Compose and Ko
 
 ## Screenshots:
 
-![Home Screen](screenshots/Home.png)
-![Add Customer](/screenshots/AddCustomer.png)
-![Customer Transaction](/screenshots/CustomerTransaction.png)
-![Transaction Detail](/screenshots/TransactionDetail.png)
-![Add Transaction](/screenshots/AddTransaction.png)
-![Customer Profile](/screenshots/CustomerProfile.png)
-![Edit Name](/screenshots/EditName.png)
-![Delete Customer](/screenshots/DeleteCustomer.png)
+![Home Screen](/screenshots/Home.jpg)
+![Add Customer](/screenshots/AddCustomer.jpg)
+![Customer Transaction](/screenshots/CustomerTransaction.jpg)
+![Transaction Detail](/screenshots/TransactionDetail.jpg)
+![Add Transaction](/screenshots/AddTransaction.jpg)
+![Customer Profile](/screenshots/CustomerProfile.jpg)
+![Edit Name](/screenshots/EditName.jpg)
+![Delete Customer](/screenshots/DeleteCustomer.jpg)
 
 
 ## Usage:
