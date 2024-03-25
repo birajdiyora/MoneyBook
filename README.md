@@ -16,9 +16,12 @@ MoneyBook is a mobile application developed using Android Jetpack Compose and Ko
 - **Customer Profile**: Access customer profiles to view total amounts received, given, and the closing balance. Users can also edit customer details or delete customers as needed.
 
 ## Screenshots:
-
-![Home Screen](/screenshots/Home.jpg) ![Add Customer](/screenshots/AddCustomer.jpg)
-
+<table>
+  <tr>
+    <td>![Home Screen](/screenshots/Home.jpg)</td>
+    <td>![Add Customer](/screenshots/AddCustomer.jpg)</td>
+  </tr>
+</table>
 ![Customer Transaction](/screenshots/CustomerTransactions.jpg)
 ![Transaction Detail](/screenshots/TransactionDetail.jpg)
 ![Add Transaction](/screenshots/AddTransaction.jpg)
